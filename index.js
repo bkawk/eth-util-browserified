@@ -1,3 +1,3 @@
 module.exports = {
-  Util: require('ethereumjs-util'),
+  util: require('ethereumjs-util'),
 }
